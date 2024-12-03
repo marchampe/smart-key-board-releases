@@ -1,0 +1,17 @@
+{
+  "deviceSoftwareVersionModel":
+  [
+      { 
+        "vendorId": 65522, 
+        "productId": 32769,
+        "softwareVersion": 1, 
+        "softwareVersionString": 1.0, 
+        "cDVersionNumber": 1, 
+        "softwareVersionValid": true, 
+        "minApplicableSoftwareVersion": 0, 
+        "maxApplicableSoftwareVersion": 100, 
+        "otaURL": "https://github.com/marchampe/smart-key-board-releases/releases/download/v2.0/smart-key-board-ota.bin",
+        "releaseNotesUrl": "https://github.com/marchampe/smart-key-board-releases/releases/tag/v2.0"
+      }
+  ]
+}
